@@ -39,7 +39,7 @@
     },
     {
       "id": 5,
-      "name": "Jaqueta ",
+      "name": "Jaqueta Algodão Azul e Branca",
       "price": 149.99,
       "category": "Jaquetas",
       "img": "https://images.pexels.com/photos/8612748/pexels-photo-8612748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -67,17 +67,17 @@
     },
     {
       "id": 9,
-      "name": "Jaqueta Bege",
+      "name": "Moletom Bege",
       "price": 199.99,
       "category": "Jaquetas",
-      "img": "https://images.pexels.com/photos/14769222/pexels-photo-14769222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "img": "https://images.pexels.com/photos/6311623/pexels-photo-6311623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 10,
-      "name": "Jaqueta Bege",
+      "name": "Moletom Verde Claro",
       "price": 199.99,
       "category": "Jaquetas",
-      "img": "https://images.pexels.com/photos/14769222/pexels-photo-14769222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "img": "https://images.pexels.com/photos/9983944/pexels-photo-9983944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 11,
@@ -102,10 +102,10 @@
     },
     {
       "id": 14,
-      "name": "Calça Moleton Branca",
-      "price": 119.99,
+      "name": "Calça Jeans Básica",
+      "price": 199.99,
       "category": "Calças",
-      "img": "https://images.pexels.com/photos/11631673/pexels-photo-11631673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "img": "https://images.pexels.com/photos/4066290/pexels-photo-4066290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 15,
@@ -119,24 +119,24 @@
       "name": "Conjunto de Anéis",
       "price": 69.99,
       "category": "Acessórios",
-      "img": "https://images.pexels.com/photos/3253515/pexels-photo-3253515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "img": "https://images.pexels.com/photos/2002502/pexels-photo-2002502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 17,
       "name": "Relógio Emporio Armani",
       "price": 399.99,
       "category": "Acessórios",
-      "img": "https://www.pexels.com/pt-br/foto/circulos-ciclos-classico-elegante-9982555/"
+      "img": "https://images.pexels.com/photos/9982555/pexels-photo-9982555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 18,
+      "name": "Relógio Preto Básico",
+      "price": 299.99,
+      "category": "Acessórios",
+      "img": "https://images.pexels.com/photos/2078268/pexels-photo-2078268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 19,
-      "name": "Relógio Emporio Armani",
-      "price": 399.99,
-      "category": "Acessórios",
-      "img": "https://images.pexels.com/photos/1687719/pexels-photo-1687719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "id": 20,
       "name": "Regata Preta Treino",
       "price": 79.99,
       "category": "Camisetas",
