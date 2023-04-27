@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta Branca Básica",
+      "price": 39.99,
+      "category": "Camisetas",
+      "img": "https://images.pexels.com/photos/9558724/pexels-photo-9558724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Camiseta Preta Básica",
+      "price": 39.99,
+      "category": "Camisetas",
+      "img": "https://images.pexels.com/photos/3662357/pexels-photo-3662357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Rosa Básica",
+      "price": 39.99,
+      "category": "Camisetas",
+      "img": "https://images.pexels.com/photos/9558894/pexels-photo-9558894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Camiseta Cinza Básica",
+      "price": 39.99,
+      "category": "Camisetas",
+      "img": "https://images.pexels.com/photos/4734756/pexels-photo-4734756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "name": "Jaqueta ",
+      "price": 149.99,
+      "category": "Jaquetas",
+      "img": "https://images.pexels.com/photos/8612748/pexels-photo-8612748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "name": "Jaqueta Puffer Azul",
+      "price": 249.99,
+      "category": "Jaquetas",
+      "img": "https://images.pexels.com/photos/16453878/pexels-photo-16453878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "name": "Jaqueta Jeans",
+      "price": 249.99,
+      "category": "Jaquetas",
+      "img": "https://images.unsplash.com/photo-1492447273231-0f8fecec1e3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Jaqueta de Couro",
+      "price": 299.99,
+      "category": "Jaquetas",
+      "img": "https://images.pexels.com/photos/14769222/pexels-photo-14769222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "name": "Jaqueta Bege",
+      "price": 199.99,
+      "category": "Jaquetas",
+      "img": "https://images.pexels.com/photos/14769222/pexels-photo-14769222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 10,
+      "name": "Jaqueta Bege",
+      "price": 199.99,
+      "category": "Jaquetas",
+      "img": "https://images.pexels.com/photos/14769222/pexels-photo-14769222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 11,
+      "name": "Calça Jeans Ripped",
+      "price": 159.99,
+      "category": "Calças",
+      "img": "https://images.unsplash.com/photo-1547597466-50406ff4f363?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 12,
+      "name": "Calça Moleton Cinza",
+      "price": 119.99,
+      "category": "Calças",
+      "img": "https://images.pexels.com/photos/7870240/pexels-photo-7870240.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 13,
+      "name": "Calça Moleton Branca",
+      "price": 119.99,
+      "category": "Calças",
+      "img": "https://images.pexels.com/photos/11631673/pexels-photo-11631673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 14,
+      "name": "Calça Moleton Branca",
+      "price": 119.99,
+      "category": "Calças",
+      "img": "https://images.pexels.com/photos/11631673/pexels-photo-11631673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 15,
+      "name": "Regata Treino",
+      "price": 79.99,
+      "category": "Camisetas",
+      "img": "https://images.pexels.com/photos/3253515/pexels-photo-3253515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 16,
+      "name": "Conjunto de Anéis",
+      "price": 69.99,
+      "category": "Acessórios",
+      "img": "https://images.pexels.com/photos/3253515/pexels-photo-3253515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 17,
+      "name": "Relógio Emporio Armani",
+      "price": 399.99,
+      "category": "Acessórios",
+      "img": "https://www.pexels.com/pt-br/foto/circulos-ciclos-classico-elegante-9982555/"
+    },
+    {
+      "id": 19,
+      "name": "Relógio Emporio Armani",
+      "price": 399.99,
+      "category": "Acessórios",
+      "img": "https://images.pexels.com/photos/1687719/pexels-photo-1687719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 20,
+      "name": "Regata Preta Treino",
+      "price": 79.99,
+      "category": "Camisetas",
+      "img": "https://images.pexels.com/photos/13896073/pexels-photo-13896073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
